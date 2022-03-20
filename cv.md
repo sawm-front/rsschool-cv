@@ -36,7 +36,7 @@ https://github.com/sawm-front
 
 I am looking for a job / internship / laboratory where I can use my knowledge, gain experience in a team with real projects and grow as a good Frontend specialist.
 
-### about my qualities:
+### About my qualities:
 
 I am very punctual when it comes to meetings - I am never late, I would rather be at the appointed place earlier and wait than they will wait for me. As for everything else, I fulfill my obligations on time.
 I immerse myself in tasks, I can’t tear myself away until I find a solution, but often, fresh thoughts come during a break, so I don’t forget to rest :)
