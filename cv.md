@@ -29,6 +29,12 @@ I am currently studying JavaScript in depth. At the same time I am taking a cour
 * I use Gulp to build the project.
 * I use Git for version control, below is my GitHub with examples of work. Among the repositories there are both commercial projects and training pet-projects.
 
+### Languages:
+
+* Russian - Native speaker
+* English - Intermediate
+* Hebrew - Basic
+
 
 https://github.com/sawm-front
 
