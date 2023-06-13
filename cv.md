@@ -17,7 +17,6 @@
 Hi! I'm an enthusiastic and detail-oriented Web Developer seeking an entry-level position with Company to use my skills and assisting in the timely completion of projects. I’m looking for job where i can start my career as intern/assistant. I’m very motivated and ready to go through the challenges.
 
 
-
 ## Skills
 
 * HTML/PUG
